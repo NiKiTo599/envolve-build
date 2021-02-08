@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.76c0cd12.chunk.css",
+    "main.js": "/static/js/main.0e50ed41.chunk.js",
+    "main.js.map": "/static/js/main.0e50ed41.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a12c9583.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a12c9583.js.map",
+    "static/js/2.d665d89d.chunk.js": "/static/js/2.d665d89d.chunk.js",
+    "static/js/2.d665d89d.chunk.js.map": "/static/js/2.d665d89d.chunk.js.map",
+    "static/js/3.419d2e20.chunk.js": "/static/js/3.419d2e20.chunk.js",
+    "static/js/3.419d2e20.chunk.js.map": "/static/js/3.419d2e20.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.76c0cd12.chunk.css.map": "/static/css/main.76c0cd12.chunk.css.map",
+    "static/js/2.d665d89d.chunk.js.LICENSE.txt": "/static/js/2.d665d89d.chunk.js.LICENSE.txt",
+    "static/media/MINDFULLNESS.b8d99a72.jfif": "/static/media/MINDFULLNESS.b8d99a72.jfif",
+    "static/media/advantgage1.0d5be610.jpg": "/static/media/advantgage1.0d5be610.jpg",
+    "static/media/advantgage2.ef588697.jpg": "/static/media/advantgage2.ef588697.jpg",
+    "static/media/advantgage3.213f9d80.jpg": "/static/media/advantgage3.213f9d80.jpg",
+    "static/media/advantgage4.9f7c4820.jpg": "/static/media/advantgage4.9f7c4820.jpg",
+    "static/media/index.scss": "/static/media/appstore.15f01eef.svg",
+    "static/media/Feature.scss": "/static/media/star.afd9008a.svg",
+    "static/media/features-phone.fdb8e15d.png": "/static/media/features-phone.fdb8e15d.png",
+    "static/media/Header.scss": "/static/media/logo1.ef731adb.svg",
+    "static/media/food.5f6c74c6.jfif": "/static/media/food.5f6c74c6.jfif",
+    "static/media/health.17191b36.jfif": "/static/media/health.17191b36.jfif",
+    "static/media/hobbies.8b3b1b3f.webp": "/static/media/hobbies.8b3b1b3f.webp",
+    "static/media/About.scss": "/static/media/logo_litle.03506a3b.svg",
+    "static/media/marafon1.b09bcb55.svg": "/static/media/marafon1.b09bcb55.svg",
+    "static/media/marafon2.73cf33e8.svg": "/static/media/marafon2.73cf33e8.svg",
+    "static/media/marafon3.86c24d1d.svg": "/static/media/marafon3.86c24d1d.svg",
+    "static/media/Phone.scss": "/static/media/phone.3d4bef1d.png",
+    "static/media/skills.b2db4664.jfif": "/static/media/skills.b2db4664.jfif",
+    "static/media/social.0690f2ef.jfif": "/static/media/social.0690f2ef.jfif",
+    "static/media/sport.142bea70.jfif": "/static/media/sport.142bea70.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a12c9583.js",
+    "static/js/2.d665d89d.chunk.js",
+    "static/css/main.76c0cd12.chunk.css",
+    "static/js/main.0e50ed41.chunk.js"
+  ]
+}
